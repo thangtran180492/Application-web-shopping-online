@@ -23,7 +23,7 @@ This is the cell phone shop's ordering website
 ### IDE used:
 - Eclipse
 - mySql Workbench
-  - user : admin
+  - user : root
   - pass : 123456
 
 #### Home Page
