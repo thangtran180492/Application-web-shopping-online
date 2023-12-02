@@ -30,7 +30,7 @@ This is the cell phone shop's ordering website
 ![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/home.png)
 
 #### information Page
-![image]()
+![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/information.png)
 
 #### cart Page
 ![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/cart.png)
