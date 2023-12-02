@@ -1,15 +1,38 @@
-# eclipse
-project ứng dụng web servlet:
-1. mục đích ứng dụng
-- ứng dụng cung cấp thông tin và hình ảnh về casc mặt hàng
-- thông tin được phân loại của từng nhóm mặt hàng
+# online shopping (cell phone)
+This is the cell phone shop's ordering website
 
-2. chức năng ứng dụng
-- có chức năng đăng ký tài khoản
-- có chức năng đăng nhập tài khoản
-- có chức năng tìm kiếm sản phẩm
-- có chức năng giỏ hàng
-- có chức năng thanh toán cho giỏ hàng, nhưng cần đăng nhập
-- tất cả các chức năng khi hoàn thành được lưu lại trong cơ sử dữ liệu( sử dụng MySQL)
+### About
+- In this projects a user can visit the websites, registers and login to the website. They can check all the products available for shopping, filter and search item based on different categories, and then add to cart. They can add multiple item to the cart and also plus or minus the quantity in the cart. Once the cart is updated, the user can proceed to confirm and place order.
 
-- đây là 1 ứng dụng đơn giản về mua săm online
+- Note: This is a project aimed at learning to install the project's IDE
+
+## Highlights
+### The users will get a mail to their registered mail Id during:
+- New User Registration
+- Order Successfully Placed
+- The Item was out of stock while exploring
+- Successful shipment and delivery of the Item
+
+### Technologies used:
+- HTML
+- CSS
+- BootStrap
+- Java (jdk 20)
+- mySql
+
+### IDE used:
+- Eclipse
+- mySql Workbench
+  - user : admin
+  - pass : 123456
+
+#### Home Page
+![image](https://github.com/thangtran180492/website-shopping-bakery/blob/main/content/home.jpg)
+
+#### Home Page
+![image](https://github.com/thangtran180492/website-shopping-bakery/blob/main/content/home.jpg)
+
+
+<bold>Thanks a lot,</bold>
+<br/>Project personal<br/>
+<b>Viet Hung (Sai)</b>
