@@ -27,10 +27,22 @@ This is the cell phone shop's ordering website
   - pass : 123456
 
 #### Home Page
-![image](https://github.com/thangtran180492/website-shopping-bakery/blob/main/content/home.jpg)
+![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/home.png)
 
-#### Home Page
-![image](https://github.com/thangtran180492/website-shopping-bakery/blob/main/content/home.jpg)
+#### information Page
+![image]()
+
+#### cart Page
+![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/cart.png)
+
+#### payment Page
+![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/payment.png)
+
+#### login Page
+![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/login.png)
+
+#### register Page
+![image](https://github.com/thangtran180492/Application-web-shopping-online/blob/main/photo/register.png)
 
 
 <bold>Thanks a lot,</bold>
